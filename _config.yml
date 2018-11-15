@@ -5,7 +5,7 @@ email: naijapropertytips@gmail.com
 description: "Tips on Nigerian Properties and Land"
 keywords: "jekyll, theme, material, muicss"
 #url: "http://www.naijapropertytips.com" # the base hostname & protocol for your site
-url: "http://naijapropertytips.com" # the base hostname & protocol for your site
+url: "https://naijapropertytips.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 paginate_path: "page:num"
