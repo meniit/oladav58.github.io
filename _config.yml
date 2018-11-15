@@ -2,10 +2,10 @@
 ## Change the values as needed.
 title: naijapropertytips
 email: naijapropertytips@gmail.com
-description: "A jekyll theme implementing material design by using muicss."
+description: "Tips on Nigerian Properties and Land"
 keywords: "jekyll, theme, material, muicss"
-#url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
-url: "http://naijapropertytips.com:443" # the base hostname & protocol for your site
+#url: "http://www.naijapropertytips.com" # the base hostname & protocol for your site
+url: "http://www.naijapropertytips.com:443" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 paginate_path: "page:num"
@@ -18,8 +18,8 @@ sass:
 links:
   facebook: brijeshb42
   twitter: brijeshb42
-  email: brijeshb42@gmail.com
-  github: brijeshb42/bitwiser-material/
+  email: naijapropertytips@gmail.com
+  github: oladav58/blog
 exclude:
   - bower_components
   - README.md
