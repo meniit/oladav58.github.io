@@ -1,8 +1,8 @@
 ---
 layout: post
 color: purple
-title:  "Color Choices"
-date:   2015-07-12 01:54:00
+title:  "Build Your Dream"
+date:   '%y'
 ---
 
 ### Any of the following color values can be used as the value of `color` in the front matter of the blog post.
