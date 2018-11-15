@@ -2,7 +2,7 @@
 layout: post
 color: purple
 title:  "Build Your Dream"
-cover: "https://pixabay.com/photo-469500/"
+cover: "http://s3-ap-southeast-1.amazonaws.com/monster-machine/images/horssghonr-1436272011-Midas.jpg"
 date:   2018-11-15 01:54:00
 ---
 
