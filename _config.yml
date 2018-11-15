@@ -1,5 +1,6 @@
 # Site settings
 ## Change the values as needed.
+site.time: page.date
 title: Naija Property Tips
 email: naijapropertytips@gmail.com
 description: "Tips on Nigerian Properties and Land"
